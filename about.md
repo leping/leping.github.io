@@ -8,7 +8,7 @@ feature-img: "img/sample_feature_img_2.png"
 # 隼的博客
    待完成
 
-## 自定义
+## 自定义配置
 
 ###_config.yml
 Some important configurations.
@@ -58,7 +58,7 @@ Add new tag.
 ###Categories
 Similar as Tags.
 
-## Thanks
+## 感谢
 * Theme template: [type-theme](https://github.com/rohanchandra/type-theme)
 * Navigation bar: [ibireme's blog](http://blog.ibireme.com)
 * Features of Tag and Category: [HOW TO USE TAGS AND CATEGORIES ON GITHUB PAGES WITHOUT PLUGINS](http://www.minddust.com/post/tags-and-categories-on-github-pages/)
