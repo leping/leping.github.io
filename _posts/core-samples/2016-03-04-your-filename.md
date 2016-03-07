@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+category : life
+tagline: "第一篇"
+tags : [intro, beginner, jekyll, tutorial]
 ---
 
 ## 一路向前
