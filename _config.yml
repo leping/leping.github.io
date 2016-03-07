@@ -15,9 +15,10 @@ theme:
   description: "used by search engines" # used by search engines
   visiblewords: 300
   # Header and footer text
-  header_text: >
-          #Leping.GitHub.io
-                隼
+  header_text1: >
+          Leping.GitHub.io
+  header_text1: >              
+          隼
 
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
