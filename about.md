@@ -5,20 +5,10 @@ permalink: /About/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-# Fengzhichu Theme
+# 隼的博客
+   待完成
 
-A jekyll theme for personal blog which based on [Type theme](https://github.com/rohanchandra/type-theme) and [ibireme's blog](http://blog.ibireme.com). Add several useful features. Fengzhichu Theme is powered by [Jekyll](http://jekyllrb.com/) and freely
-hosted in [Github pages](https://pages.github.com/).
-
-## How to use it
-* Star & Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme).
-* Rename repo as 'yourusername.github.io'.
-* You can delete gh-pages branch if you want.
-* Clone your <b>master branch</b> to local directory.
-* Custom the '_config.yml' to your style.
-* Run jekyll serve -w.
-
-## Customization
+## 自定义
 
 ###_config.yml
 Some important configurations.
@@ -77,7 +67,7 @@ Similar as Tags.
 - If you like, please star it. Thank you!
 - Enjoy it!
 
-## Copyright & License
+## 许可
 Copyright (C) 2015 - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
