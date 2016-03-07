@@ -8,7 +8,7 @@ theme:
   # Meta
   title: 隼
   #avatar: avatar.png
-  hometitle:  我的博客
+  hometitle: 首页
   #display on navigation menu.
   yoursitetitle: 驰隼
   gravatar: # Email MD5 hash
