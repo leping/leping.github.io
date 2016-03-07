@@ -16,8 +16,8 @@ theme:
   visiblewords: 300
   # Header and footer text
   header_text: >
-     Leping.GitHub.io
-     隼
+          #Leping.GitHub.io
+                隼
 
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
