@@ -1,6 +1,6 @@
 ---
 layout: blog_by_category
-title: '设计'
-category: design
+title: 'Pages'
+category: Pages
 permalink: /Design/
 ---
