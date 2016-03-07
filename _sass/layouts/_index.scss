@@ -15,17 +15,18 @@
   display: inline-block;
   width: 100%;
   background-size: cover;
-  font-size: 4em;
+  font-size: 3.25em;
   text-align: center;
   color: $header-desc-text-color;
   padding: 0 0;
+  font-weight: bold;
 }
 .call-out-content1 {
   @extend %padding-regular;
   display: inline-block;
   width: 100%;
   background-size: cover;
-  font-size: 1em;
+  font-size: 1.25em;
   text-align: center;
   color: $header-desc-text-color;
   padding: 0 0;
