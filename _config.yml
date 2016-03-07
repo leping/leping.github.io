@@ -17,7 +17,7 @@ theme:
   # Header and footer text
   header_text1: >
           Leping.GitHub.io
-  header_text1: >              
+  header_text2: >              
           隼
 
   header_text_feature_image: img/sample_feature_img.png
