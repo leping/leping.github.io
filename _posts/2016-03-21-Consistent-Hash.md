@@ -17,13 +17,3 @@ published: false
    过渡平滑（单调性）: 当缓冲区大小变化时一致性哈希(Consistent hashing)尽量保护已分配的内容不会被重新映射到新缓冲区（避免无效迁移）。
    存储均衡
    关键词单调
-
-  
- 
-
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
