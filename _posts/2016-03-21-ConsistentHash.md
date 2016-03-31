@@ -1,8 +1,16 @@
 ---
-published: false
+layout: post
+title: ConsistentHash
+date: {}
+author: leping
+category: Pages
+tags: 
+  - jekyll
+  - github
+published: true
 ---
 
-## 一致性哈希  consistent-hash
+## 一致性哈希  ConsistentHash
 ### 背景
     一致哈希由MIT的Karger及其合作者提出，现在这一思想已经扩展到其它领域。在这篇1997年发表的学术论文中介绍了“一致哈希”如何应用于用户易变的分布式Web服务中。哈希表中的每一个元素代表分布式系统中一个节点，在系统添加或删除节点只需要移动K/n项。
 一致哈希也可用于实现健壮缓存来减少大型Web应用中系统部分失效带来的负面影响。
