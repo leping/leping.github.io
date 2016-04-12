@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: blog_by_tag
 title: ConsistentHash
 author: leping
 category: Pages
 tags: [jekyll, github]
-published: true
 ---
 
 ## 一致性哈希  ConsistentHash
