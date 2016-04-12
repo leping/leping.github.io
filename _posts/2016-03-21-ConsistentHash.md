@@ -1,5 +1,5 @@
 ---
-layout: blog_by_tag
+layout: post
 title: ConsistentHash
 author: leping
 category: Pages
