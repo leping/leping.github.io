@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-title: 测试各种页面组件
+title: ConsistentHash
 author: leping
 category: Pages
 tags: [jekyll, github]
