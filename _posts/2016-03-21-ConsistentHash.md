@@ -1,12 +1,9 @@
 ---
 layout: post
 title: ConsistentHash
-date: {}
 author: leping
 category: Pages
-tags: 
-  - jekyll
-  - github
+tags: [jekyll, github]
 published: true
 ---
 
